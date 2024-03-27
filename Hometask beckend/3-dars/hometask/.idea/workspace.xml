@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7106e5fc-09d2-4e5b-835d-6b415ee6284c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../My Projects/Imlo_bot/.idea/Imlo_bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My Projects/OOP lesson/.idea/OOP lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My Projects/Python B/.idea/Python B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My Projects/Test_py/.idea/Test_py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My Projects/Tg bot/.idea/Tg bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My Projects/wikipedia_bot/.idea/wikipedia_bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/bir/.idea/bir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/bir/bir/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/blog_site/.idea/blog_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/blog_site/blog_site/.idea/blog_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/blog_site/blog_site/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/second_05/second/.idea/second.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PDP Django/second_05/second/users/ursl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python univer/.idea/Python univer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python univer/Django_lessons/.idea/Django_lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python univer/Django_lessons/first_lesson/.idea/first_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python univer/Django_lessons/second_lesson/.idea/second_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python univer/Django_lessons/third-lesson/.idea/third-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/.idea/hometask_django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/home.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/Ellipse 21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/Group 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/Rectangle 74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/Rectangle 78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/Rectangle 79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/bg-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/birinci.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/car.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/eep88j2SDJ-removebg-preview 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/ikkinchi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/images-removebg-preview 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/ip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/sam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/section2-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/uLkF7xc5W6-removebg-preview 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/static/media/uchinchi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/templates/contact_us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/templates/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/templates/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hometask_django/home/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tg_bot/shablon/chanels-tg/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tg_bot/telegram-bot-template-main/.idea/telegram-bot-template-main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/brand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/vinil1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2eG27v5N41MQDgOMarbNiWF2l6z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7106e5fc-09d2-4e5b-835d-6b415ee6284c" name="Changes" comment="" />
+      <created>1711516431661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711516431661</updated>
+    </task>
+    <servers />
+  </component>
+</project>
